@@ -3,7 +3,7 @@
 ## 📘 Overview
 
 This project demonstrates 3D data processing and visualization using the **Open3D** library in Python.  
-A unique 3D model (`Sting-Sword-lowpoly.obj`) was used to complete all seven required tasks — from loading the model to gradient coloring and highlighting extreme points.
+A unique 3D model (`091_W_Aya_30K.obj`) was used to complete all seven required tasks — from loading the model to gradient coloring and highlighting extreme points.
 
 ---
 
